@@ -27,6 +27,11 @@ modes/_profile.md
 node_modules/
 bun.lock
 
+# Environment secrets
+.env
+.env.local
+.env.*.local
+
 # OS
 .DS_Store
 *.mov
@@ -35,5 +40,6 @@ bun.lock
 # Claude Code local
 .claude/settings.local.json
 .claude/memory/
+.vscode/
 career-dashboard
 package-lock.json

@@ -44,7 +44,11 @@
 
 6. **Targets alternativos** con justificacion de por que son buenos second choices
 
+**Reglas de presentación de contactos:**
+- **RULE 0: ALWAYS provide the LinkedIn profile URL for every contact found.** Format as a clickable markdown link next to the name. No URL = don't list the contact.
+
 **Reglas del mensaje:**
+- **RULE 1: NEVER use any dash or hyphen character anywhere in the message.** This includes hyphens (-), em dashes (—), and en dashes (–). Rewrite all hyphenated compounds as two words (e.g. "full stack" not "full-stack"). Replace em dash separators with commas, periods, or conjunctions.
 - Maximo 300 caracteres (LinkedIn connection request limit)
 - NO corporate-speak
 - NO "I'm passionate about..."
